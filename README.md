@@ -11,18 +11,6 @@ Sistema de controle de gastos residenciais.
 - `backend/` -> API e persistência
 - `frontend/` -> interface web
 
-## Como executar
-
-### Back-end
-1. Acesse a pasta `backend`
-2. Abra o arquivo da solução no Visual Studio
-3. Execute a API
-
-### Front-end
-1. Acesse a pasta `frontend`
-2. Execute `npm install`
-3. Execute `npm run dev`
-
 ## Regras de negócio implementadas
 - Cadastro, edição, exclusão e listagem de pessoas
 - Exclusão lógica das transações vinculadas ao excluir uma pessoa
