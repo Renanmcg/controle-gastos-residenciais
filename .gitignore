@@ -1,0 +1,28 @@
+# Front-end
+frontend/node_modules/
+frontend/dist/
+
+
+# Back-end (.NET / Visual Studio)
+backend/**/bin/
+backend/**/obj/
+backend/.vs/
+.vs/
+
+
+# SQLite temporários
+*.db-shm
+*.db-wal
+
+
+# Visual Studio / usuário
+*.user
+*.suo
+
+# Logs e temporários
+*.log
+
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
